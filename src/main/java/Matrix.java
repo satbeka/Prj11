@@ -87,7 +87,7 @@ public class Matrix {
 
     public static void main(String[] args) {
 
-        Matrix A = new Matrix(4, 3);
+        Matrix A = new Matrix(7, 3);
         Matrix B = new Matrix(3, 2);
         Matrix C;
 
